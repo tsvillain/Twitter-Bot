@@ -7,11 +7,8 @@
 ### :star: Star us on GitHub — it helps!
 
 
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tsvillain/Twitter-Bot/issues)
-[![Forks](https://img.shields.io/github/forks/tsvillain/Twitter-Bot.svg?logo=github)](https://github.com/tsvillain/Twitter-Bot/network/members)
-[![Stargazers](https://img.shields.io/github/stars/tsvillain/Twitter-Bot.svg?logo=github)](https://github.com/tsvillain/Twitter-Bot/stargazers)
-[![Issues](https://img.shields.io/github/issues/tsvillain/Twitter-Bot.svg?logo=github)](https://github.com/tsvillain/Twitter-Bot/issues)
 [![MIT License](https://img.shields.io/github/license/tsvillain/Twitter-Bot.svg?style=flat-square)](https://github.com/tsvillain/Twitter-Bot/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/tsvillain/)
 
@@ -43,11 +40,6 @@ consumerAPIkey = ''
 consumerAPIsecret = ''
 accessToken = ''
 accessTokenSecret = ''
-
-# This is hastag which Twitter bot will search and retweet. You can edit this with any hastag .For example : '#python'
-KEY = '#hackathon'
-
-# You can decrease or increase Twitter bot sleep time as you like.Please,use large delay if you are running bot all the time  so that your account does not get banned.
 ```
 
 ## :clap: Done
