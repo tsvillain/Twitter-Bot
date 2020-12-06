@@ -1,0 +1,4 @@
+consumerAPIkey = ''
+consumerAPIsecret = ''
+accessToken = ''
+accessTokenSecret = ''
